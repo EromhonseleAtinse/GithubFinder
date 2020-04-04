@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <div>
-      <h1>ATINSE EROMHONSELE</h1>
+      <h1>This is a Github finder web app</h1>
     </div>
   );
 };
